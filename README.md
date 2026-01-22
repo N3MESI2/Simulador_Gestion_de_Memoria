@@ -99,3 +99,4 @@ python simulador_so.py
 ## Licencia  
 Este simulador se distribuye con fines educativos y prácticos, para el estudio de conceptos de sistemas operativos.  
 Autor: Tomás Romero Baylac.
+![fe74cd5b-33a3-4eae-907d-b87ab024718d](https://github.com/user-attachments/assets/d57ba523-fee1-4174-ac18-31a11da2a50d)
